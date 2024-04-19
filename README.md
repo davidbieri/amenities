@@ -8,13 +8,13 @@ Bieri, Kuminoff & Pope (2023) "[National Expenditures on Local Amenities](https:
 
 ## Files
 
-- [About](#about)
+- [bkp_appendix_jeem23.pdf](#bkp_appendix_jeem23.pdf)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## About
+## bkp_appendix_jeem23.pdf
 
 Detailed explanation of what the project does, its purpose, and any other relevant information.
 
